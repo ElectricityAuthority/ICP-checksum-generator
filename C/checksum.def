@@ -1,0 +1,9 @@
+
+LIBRARY checksum
+
+STACKSIZE  2097152,  2097152
+
+EXPORTS
+
+	frame_crc12
+	check_crc12 
